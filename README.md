@@ -35,4 +35,4 @@ This project analyzes customer complaints using Power BI and Excel VBA to identi
 
 # Dashboard Preview
 
-![alt text](https://github.com/Vihara-Diwyanjalee/Sentiment-Analysis-Project/blob/main/demo.png?raw=true)
+![alt text](https://github.com/Vihara-Diwyanjalee/complaint-trend-analysis/blob/main/demo.png?raw=true)
